@@ -16,13 +16,13 @@ namespace Kohvik
         public void ChooseDrink()
         {
             Latte latte = new Latte();
-            Kohv kohv = new Kohv();
+            BlackCoffee black = new BlackCoffee();
 
-            Console.WriteLine("Do you want coffee or latte");
+            Console.WriteLine("Do you want black coffee or latte");
             var answer = Console.ReadLine();
-            if (answer == "coffee")
+            if (answer == "black coffee")
             {
-                kohv.Drink();
+                black.Drink();
             }
             else if (answer == "latte")
             {

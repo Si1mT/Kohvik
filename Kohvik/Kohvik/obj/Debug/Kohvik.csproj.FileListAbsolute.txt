@@ -5,3 +5,10 @@ C:\Users\opilane\Documents\Visual Studio 2017\Projects\Kohvik\Kohvik\bin\Debug\K
 C:\Users\opilane\Documents\Visual Studio 2017\Projects\Kohvik\Kohvik\bin\Debug\Kohvik.pdb
 C:\Users\opilane\Documents\Visual Studio 2017\Projects\Kohvik\Kohvik\obj\Debug\Kohvik.exe
 C:\Users\opilane\Documents\Visual Studio 2017\Projects\Kohvik\Kohvik\obj\Debug\Kohvik.pdb
+C:\Users\SIIM\Documents\GitHub\Kohvik\Kohvik\Kohvik\bin\Debug\Kohvik.exe.config
+C:\Users\SIIM\Documents\GitHub\Kohvik\Kohvik\Kohvik\bin\Debug\Kohvik.exe
+C:\Users\SIIM\Documents\GitHub\Kohvik\Kohvik\Kohvik\bin\Debug\Kohvik.pdb
+C:\Users\SIIM\Documents\GitHub\Kohvik\Kohvik\Kohvik\obj\Debug\Kohvik.csprojResolveAssemblyReference.cache
+C:\Users\SIIM\Documents\GitHub\Kohvik\Kohvik\Kohvik\obj\Debug\Kohvik.csproj.CoreCompileInputs.cache
+C:\Users\SIIM\Documents\GitHub\Kohvik\Kohvik\Kohvik\obj\Debug\Kohvik.exe
+C:\Users\SIIM\Documents\GitHub\Kohvik\Kohvik\Kohvik\obj\Debug\Kohvik.pdb

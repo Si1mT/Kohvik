@@ -16,6 +16,11 @@ namespace Kohvik
         }
         public override void Drink()
         {
+            Random goodOrBad = new Random();
+            if (goodOrBad.Next(0, 100) <= 50)
+                Console.WriteLine("This smells bad");
+            else
+                Console.WriteLine("This smells good");
             base.Drink();
         }
     }
